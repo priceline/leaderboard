@@ -26,4 +26,4 @@ Hitting the leaderboard bot commands in a Slack channel.
 
 - [Chris Ng](https://github.com/chrisrng)
 - [Ben Chen](https://github.com/bcVamp)
-- Alexey Kozyachiy
+- [Alexey Kozyachiy](https://github.com/aleks1001)
